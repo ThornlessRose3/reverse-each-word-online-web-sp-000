@@ -4,6 +4,6 @@ def reverse_each_word(string)
     word.reverse
   end
   result = ""
-  result = array.join(" ")
+  result = array
   return result
 end
